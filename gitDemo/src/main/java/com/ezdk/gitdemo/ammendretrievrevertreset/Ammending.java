@@ -1,7 +1,7 @@
 package com.ezdk.gitdemo.ammendretrievrevertreset;
 
 public class Ammending {
-	//Final version
+	//Final version master
 	//Ammend commit sdf
 	//sdfd
 	//change
