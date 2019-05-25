@@ -6,5 +6,4 @@ public class Ammending {
 	//sdfd fdsfds
 	//change
 	
-	//Master Change another change ammand
 }
