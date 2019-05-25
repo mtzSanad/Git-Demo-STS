@@ -7,4 +7,5 @@ public class Ammending {
 	//change
 	//added
 	//another line
+	//master
 }
