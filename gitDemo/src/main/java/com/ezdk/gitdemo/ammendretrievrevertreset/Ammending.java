@@ -9,4 +9,5 @@ public class Ammending {
 	//another line
 	//master
 	//stop ff
+	//Conflict base
 }
