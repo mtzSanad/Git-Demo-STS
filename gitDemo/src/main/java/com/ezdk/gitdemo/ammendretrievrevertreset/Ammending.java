@@ -15,5 +15,5 @@ public class Ammending {
 	//another line -- deleted //master
 	//stop ff 1 only from branch
 	//Conflict base this is 1
-	//Another line added 1
+	//Another line added 1 sdfs
 }
